@@ -28,4 +28,4 @@ multiplexer.
 | 6 | None     | Not used       | none            |
 | 7 | Control  | Not used       | none            |
 
-![](../../images/wavedrom.png)
+![](images/wavedrom.png)
