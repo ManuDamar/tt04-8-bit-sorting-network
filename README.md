@@ -29,9 +29,10 @@ multiplexer.
 | 7 | Control  | Not used       | none            |
 
 
-
+## Time diagram
 
 ![Time diagram](images/wavedrom.png)
 
+## Example with data
 
 ![Example with data](images/wavedromExample.png)
