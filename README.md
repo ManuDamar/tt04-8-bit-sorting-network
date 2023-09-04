@@ -34,4 +34,4 @@ multiplexer.
 ![Time diagram](images/wavedrom.png)
 
 
-![Example with data](images/wavedrom (1).png)
+![Example with data](images/wavedromExample.png)
