@@ -28,4 +28,10 @@ multiplexer.
 | 6 | None     | Not used       | none            |
 | 7 | Control  | Not used       | none            |
 
-![](images/wavedrom.png)
+
+
+
+![Time diagram](images/wavedrom.png)
+
+
+![Example with data](images/wavedrom(1).png)
